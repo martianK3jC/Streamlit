@@ -1,0 +1,34 @@
+Standard Python Ignore List
+
+Byte-compiled / optimized / backup files
+
+pycache/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info
+.eggs
+
+Environments
+
+.venv/
+venv/
+env/
+
+IDEs and Editors
+
+.vscode/             # Visual Studio Code settings
+.idea/               # IntelliJ/PyCharm
+*.sublime-workspace
+*.sublime-project
+
+Operating System
+
+.DS_Store
+
+Streamlit Specific
+
+Ignore the local media cache for uploaded files (if used heavily)
+
+.streamlit/
