@@ -571,9 +571,6 @@ link_color = VIBRANT_GOLD
 accent_color = ROYAL_BLUE 
 
 st.markdown(f"""
-<div style='color: {contact_color}; margin-bottom: 2rem; line-height: 1.8;'>
-You can reach out to discuss CS, Project Analytics, the hackathon, or competitive eating!
-</div>
 <div style='font-size: 1.1rem; line-height: 2;'>
 <p style='color: {accent_color}; margin-bottom: 1rem;'>
     🔗 GitHub: <a href="https://github.com/martianK3jC" target="_blank" style="color: {link_color}; text-decoration: none;">martianK3jC</a>
